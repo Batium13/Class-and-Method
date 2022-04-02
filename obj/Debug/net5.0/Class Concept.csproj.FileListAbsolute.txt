@@ -1,0 +1,16 @@
+D:\BATU\VS Code Console Programming\Practises\Class Concept\bin\Debug\net5.0\Class Concept.exe
+D:\BATU\VS Code Console Programming\Practises\Class Concept\bin\Debug\net5.0\Class Concept.deps.json
+D:\BATU\VS Code Console Programming\Practises\Class Concept\bin\Debug\net5.0\Class Concept.runtimeconfig.json
+D:\BATU\VS Code Console Programming\Practises\Class Concept\bin\Debug\net5.0\Class Concept.runtimeconfig.dev.json
+D:\BATU\VS Code Console Programming\Practises\Class Concept\bin\Debug\net5.0\Class Concept.dll
+D:\BATU\VS Code Console Programming\Practises\Class Concept\bin\Debug\net5.0\ref\Class Concept.dll
+D:\BATU\VS Code Console Programming\Practises\Class Concept\bin\Debug\net5.0\Class Concept.pdb
+D:\BATU\VS Code Console Programming\Practises\Class Concept\obj\Debug\net5.0\Class Concept.csproj.AssemblyReference.cache
+D:\BATU\VS Code Console Programming\Practises\Class Concept\obj\Debug\net5.0\Class Concept.GeneratedMSBuildEditorConfig.editorconfig
+D:\BATU\VS Code Console Programming\Practises\Class Concept\obj\Debug\net5.0\Class Concept.AssemblyInfoInputs.cache
+D:\BATU\VS Code Console Programming\Practises\Class Concept\obj\Debug\net5.0\Class Concept.AssemblyInfo.cs
+D:\BATU\VS Code Console Programming\Practises\Class Concept\obj\Debug\net5.0\Class Concept.csproj.CoreCompileInputs.cache
+D:\BATU\VS Code Console Programming\Practises\Class Concept\obj\Debug\net5.0\Class Concept.dll
+D:\BATU\VS Code Console Programming\Practises\Class Concept\obj\Debug\net5.0\ref\Class Concept.dll
+D:\BATU\VS Code Console Programming\Practises\Class Concept\obj\Debug\net5.0\Class Concept.pdb
+D:\BATU\VS Code Console Programming\Practises\Class Concept\obj\Debug\net5.0\Class Concept.genruntimeconfig.cache
